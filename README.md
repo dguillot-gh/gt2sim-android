@@ -10,7 +10,7 @@ the full how-to. Engine: [psxrecomp-android](https://github.com/dguillot-gh/psxr
 (mstan/psxrecomp + our Android layer; PolyForm Noncommercial: personal, non-commercial use only).
 
 ## Status
-NOT WORKING YET: the recompiler mistakes data for code and makes ~5 GB of C. Needs investigation.
+Builds and installs (2026-10-08, after the recompiler data-as-code fix: 32 MB of C). First boot not checked yet.
 
 ## The disc you need
 - Serial **SCUS-94488**, 1 disc(s), as `.cue` + `.bin` (a raw rip of your own copy).
